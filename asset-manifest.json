@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/lezada-02/static/css/main.511665b9.css",
-    "main.js": "/lezada-02/static/js/main.da18d664.js",
-    "static/js/787.cda612ba.chunk.js": "/lezada-02/static/js/787.cda612ba.chunk.js",
-    "static/media/banner.png": "/lezada-02/static/media/banner.13bdd5f03298210bd8ee.png",
-    "static/media/ad2.jpeg": "/lezada-02/static/media/ad2.e9f75c546f3371a4e92d.jpeg",
-    "static/media/ad1.jpeg": "/lezada-02/static/media/ad1.358be6de5502d7624233.jpeg",
-    "static/media/ad3.jpeg": "/lezada-02/static/media/ad3.ad9b6bfe8b2918324b0f.jpeg",
-    "static/media/bannerImg.jpg": "/lezada-02/static/media/bannerImg.6ee233677f77f7a0d745.jpg",
-    "index.html": "/lezada-02/index.html",
-    "main.511665b9.css.map": "/lezada-02/static/css/main.511665b9.css.map",
-    "main.da18d664.js.map": "/lezada-02/static/js/main.da18d664.js.map",
-    "787.cda612ba.chunk.js.map": "/lezada-02/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/static/css/main.781d5195.css",
+    "main.js": "/static/js/main.27588ece.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/banner.png": "/static/media/banner.13bdd5f03298210bd8ee.png",
+    "static/media/ad2.jpeg": "/static/media/ad2.e9f75c546f3371a4e92d.jpeg",
+    "static/media/ad1.jpeg": "/static/media/ad1.358be6de5502d7624233.jpeg",
+    "static/media/ad3.jpeg": "/static/media/ad3.ad9b6bfe8b2918324b0f.jpeg",
+    "static/media/bannerImg.jpg": "/static/media/bannerImg.6ee233677f77f7a0d745.jpg",
+    "index.html": "/index.html",
+    "main.781d5195.css.map": "/static/css/main.781d5195.css.map",
+    "main.27588ece.js.map": "/static/js/main.27588ece.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.511665b9.css",
-    "static/js/main.da18d664.js"
+    "static/css/main.781d5195.css",
+    "static/js/main.27588ece.js"
   ]
 }
