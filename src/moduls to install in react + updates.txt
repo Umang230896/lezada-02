@@ -1,0 +1,45 @@
+router:
+npm i react-router-dom@6
+
+axios:
+npm i axios
+
+react-icons:
+npm install react-icons --save
+
+react-bootstrap:
+npm install react-bootstrap bootstrap
+
+
+
+
+// update
+********************
+
+31-08-2023
+
+LEZADA
+project created
+
+********************
+01-09-2023
+
+header complated 
+banner complated
+ads complated
+footer complated
+
+products component is in building
+
+*************************
+02-09-2023
+
+product omponent compated
+login page setup
+login routing setup
+login page header complated
+login page banner complated
+
+login form is in building
+sign up form is in building
+

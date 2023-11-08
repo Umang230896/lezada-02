@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+header a {
+    color: #7e7e7e !important;
+    text-decoration: none;
+
+}
+
+h1{
+    font-weight: 400 !important;
+    font-size: 46px !important;
+}
+
+.products h2{
+    text-align: center !important;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.banner-info-main *{
+    margin: 30px 0 30px 0 !important;
+}
+
+.banner-info{
+    font-weight: 300;
+}
+
+footer .title {
+    font-weight: 600 !important;
+}
+
+/* product css */
+.product{
+    cursor: pointer;
+}
+
+.pos-absolute{
+    position: absolute;
+}
+
+.pos-relative {
+    position: relative;
+}
+
+.main-product-hover-image{
+    top: 0;
+    opacity: 0;
+    transition: 0.4s ease-in;
+}
+
+.product:hover .main-product-hover-image, .product:hover .product-wishlist {
+    opacity: 1;
+}
+
+.product-discount-percentages {
+    top: 4%;
+    left: 6%;
+    width: 3rem;
+    height: 3rem;
+    background-color: #98d8ca;
+}
+
+.product-wishlist{
+    top: 4%;
+    right: 6%;
+    font-size: large;
+    color: #7e7e7e;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: 0.4s ease-in;
+}
+
+.product:hover .product-wishlist {
+    transform: translateY(0);
+}
+
+
+/* add to cart */
+
+.Add-to-Cart {
+    font-size: large;
+    opacity: 0;
+    transition: .5s ease-in;
+    transform: translateY(10px);
+
+}
+
+.Product-description {
+    transition: 0.4s ease-in;
+}
+
+.product:hover .Product-description {
+    transform: translateY(-10px);
+    opacity: 0;
+}
+.product:hover .Add-to-Cart {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.old-price {
+    font-size: small;
+}
+
+/* login */
+
+.login-banner {
+    background-image: url('./assets/banner.png');
+    background-size: cover;
+}
